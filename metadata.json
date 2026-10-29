@@ -1,0 +1,11 @@
+{
+  "name": "AI-College-Bus-Tracking-System",
+  "description": "AI-powered college bus tracking system with real-time GPS tracking for students",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
